@@ -27,4 +27,5 @@ Career-FIT has received funding from the European Union’s Horizon2020 research
 <span property="dct:title">The AI-Capability Assessment Model</span> is licensed under [CC BY-SA 4.0 <img width="30" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"/><img width="30" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"/><img width="30" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"/>](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 ## Citing the model
-[REF]
+Butler, Tom, Espinoza-Limón, Angelina and Seppälä, Selja (2021, September 1). Towards a capability assessment model for the comprehension and adoption of AI in organisations. In the Journal of AI, Robotics & Workplace Automation, Volume 1, Issue 1.
+Link: https://hstalks.com/article/6486/towards-a-capability-assessment-model-for-the-comp/?business
