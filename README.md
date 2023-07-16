@@ -16,7 +16,7 @@ Further details on the tables, the development of the model and its motivations 
 
 ## Authors
 - Prof. Tom Butler, Department of Business Information Systems, University College Cork
-- Dr Angelina Espinoza-León, Marie Skłodowska-Curie Career-FIT Fellow, Department of Business Information Systems, University College Cork
+- Dr Angelina Espinoza-Limón, Marie Skłodowska-Curie Career-FIT Fellow, Department of Business Information Systems, University College Cork
 - Dr Selja Seppälä, Marie Skłodowska-Curie Career-FIT Fellow, Department of Business Information Systems, University College Cork
 
 ## Acknowledgements
